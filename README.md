@@ -1,8 +1,26 @@
-# chatdrop
+# Chatdrop
 
 Social media application developed by Nitish Kumar.
 
-## Getting Started
+### Features
+
+- Authentication
+
+- Profile 
+
+- Post
+
+- Reels
+
+- Friends
+
+- Chats (with single layer encryption)
+
+- Secret Chats (with end-to-end encryption using signal-protocol)
+
+- Olivia Ai (powered with chatgpt)
+
+### Getting Started
 
 - Create .env file with the following code in it.
 `
