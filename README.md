@@ -6,6 +6,8 @@ Social media application developed by Nitish Kumar.
 
 - Authentication
 
+- OAuth (with google sign in)
+
 - Profile 
 
 - Post
@@ -16,6 +18,8 @@ Social media application developed by Nitish Kumar.
 
 - Friends
 
+- Fan Following
+
 - Chats (with single layer encryption)
 
 - Secret Chats (with end-to-end encryption using signal-protocol)
@@ -23,6 +27,12 @@ Social media application developed by Nitish Kumar.
 - Olivia Ai (powered with chatgpt)
 
 - Search
+
+- Notifications
+
+- Privacy and Blocking System
+
+- Security (using AES-256 bit encryption)
 
 ### Getting Started
 
