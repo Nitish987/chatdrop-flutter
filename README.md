@@ -10,6 +10,8 @@ Social media application developed by Nitish Kumar.
 
 - Post
 
+- Stories
+
 - Reels
 
 - Friends
@@ -19,6 +21,8 @@ Social media application developed by Nitish Kumar.
 - Secret Chats (with end-to-end encryption using signal-protocol)
 
 - Olivia Ai (powered with chatgpt)
+
+- Search
 
 ### Getting Started
 
