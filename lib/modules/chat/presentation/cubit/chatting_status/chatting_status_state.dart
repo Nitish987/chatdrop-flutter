@@ -1,0 +1,1 @@
+enum ChattingStatusState {offline, online, typing}

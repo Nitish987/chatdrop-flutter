@@ -1,0 +1,1 @@
+enum CanChatState {initial, available, unavailable}

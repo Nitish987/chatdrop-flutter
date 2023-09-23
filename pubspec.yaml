@@ -1,0 +1,88 @@
+name: chatdrop
+description: A social media platform.
+
+publish_to: 'none'
+
+version: 3.2.5
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_spinkit: ^5.1.0
+  shared_preferences: ^2.1.0
+  dio: ^5.1.1
+  flutter_bloc: ^8.1.2
+  connectivity_plus: ^3.0.3
+  flutter_secure_storage: ^8.0.0
+  email_validator: ^2.1.16
+  url_launcher: ^6.1.10
+  provider: ^6.0.5
+  cached_network_image: ^3.2.3
+  image_picker: ^0.8.7+1
+  flutter_dotenv: ^5.0.2
+  screenshot: ^2.1.0
+  path_provider: ^2.0.14
+  permission_handler: ^10.3.0
+  video_player: ^2.6.1
+  video_trimmer: ^2.0.1
+  ffmpeg_kit_flutter: 5.1.0
+  detectable_text_field: 2.1.0
+  story_view: 0.14.0
+  json_annotation: ^4.8.1
+  web_socket_channel: ^2.4.0
+  grouped_list: 5.1.2
+  intl: ^0.17.0
+  libsignal_protocol_dart: 0.6.5
+  sqflite: ^2.2.8
+  firebase_core: ^2.13.0
+  firebase_messaging: ^14.6.2
+  flutter_local_notifications: ^14.1.0
+  visibility_detector: ^0.4.0+2
+  encrypt: ^5.0.1
+  crypto: ^3.0.2
+  firebase_auth: ^4.6.2
+  cloud_firestore: ^4.8.0
+  firebase_storage: ^11.2.2
+  firebase_app_check: ^0.1.4+2
+  device_info_plus: ^9.0.2
+  upgrader: ^7.1.0
+  camera: ^0.10.5+2
+  file_picker: ^5.3.2
+  just_audio: ^0.9.34
+  video_compress: ^3.1.2
+  video_thumbnail: ^0.5.3
+  flutter_sharing_intent: ^1.0.6
+  google_sign_in: ^6.1.4
+  font_awesome_flutter: ^10.5.0
+  any_link_preview: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  build_runner: ^2.3.3
+  json_serializable: ^6.6.1
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo/chatdrop.png"
+  min_sdk_android: 26
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - .env
+    - assets/images/
+    - assets/logo/
+    - assets/bg/
+    - assets/illustrations/

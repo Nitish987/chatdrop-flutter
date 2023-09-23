@@ -1,0 +1,1 @@
+enum ChatPageState {initial, onlyOneMessageSelected, manyMessagesSelected, messageUnselected}

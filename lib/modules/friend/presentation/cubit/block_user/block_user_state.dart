@@ -1,0 +1,1 @@
+enum BlockUserState {initial, block, unblock}

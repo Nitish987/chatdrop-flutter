@@ -1,0 +1,1 @@
+enum PostVisibilityState {public, onlyFriends, private}
