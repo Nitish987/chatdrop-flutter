@@ -48,3 +48,9 @@ WEBSOCKET_URL='WEBSOCKET_URL'
 - Also go through all the files located in lib/settings directory
 
 - This app requires firebase connectivity also. Connect this project to firebase and move firebase_options.dart file to lib/settings/firebase directory
+
+### Related Repositories
+
+- [Chatdrop Web App](https://github.com/Nitish987/chatdrop-react)
+
+- [Chatdrop Server](https://github.com/Nitish987/chatdrop-django)
