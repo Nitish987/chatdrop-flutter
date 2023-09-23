@@ -23,6 +23,7 @@ Social media application developed by Nitish Kumar.
 ### Getting Started
 
 - Create .env file with the following code in it.
+
 `
 API_URL='SERVER_API_URL'
 API_KEY='SERVER_API_KEY'
